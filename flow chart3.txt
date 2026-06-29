@@ -1,0 +1,6 @@
+flowchart TD
+    A([Start]) --> B[/Input : A/]
+    B --> C[/Input Second Number: B/]
+    C --> D[Sum = A * B]
+    D --> E[/Display Sum/]
+    E --> F([End])
