@@ -1,0 +1,6 @@
+STEP 1 Start 
+STEP 2 Enter the FirstNumber : 
+STEP 3 Enter the SecondNumber : 
+STEP 4 FirstNumber + SecondNumber 
+STEP 5 total = 
+STEP 6 END
