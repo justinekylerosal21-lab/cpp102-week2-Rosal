@@ -1,0 +1,13 @@
+
+ 
+    A[Problem: One exam ruins overall grades] --> B[Analyze Gradebook Setup]
+    B --> C{Is grading based on total raw points?}
+    C -->|Yes| D[Switch to Weighted Categories]
+    
+    D --> E[Assign 40% to Homework/Quizzes]
+    D --> F[Assign 40% to Major Exams]
+    D --> G[Assign 20% to Projects/Participation]
+    
+    E --> H[Solution: Grade reflects consistent effort]
+    F --> H
+    G --> H
